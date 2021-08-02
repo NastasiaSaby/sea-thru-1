@@ -9,3 +9,4 @@ torch
 torchvision
 pynng
 pyyaml
+opencv-contrib-python
